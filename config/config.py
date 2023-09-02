@@ -170,11 +170,6 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv(
-    "START_IMG_URL",
-    "assets/kotaro.jpeg",
-)
-
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
     "assets/kotaro.jpeg",
